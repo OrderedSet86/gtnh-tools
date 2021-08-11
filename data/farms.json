@@ -1,0 +1,36 @@
+[
+    {
+        "name": "fir wood lumber axe farm",
+        "I": [
+            [
+                "human time (s)",
+                285
+            ]
+        ],
+        "O": [
+            [
+                "wood",
+                3535
+            ],
+            [
+                "sapling",
+                799
+            ]
+        ]
+    },
+    {
+        "name": "railcraft water tank",
+        "I": [
+            [
+                "time (s)",
+                10
+            ]
+        ],
+        "O": [
+            [
+                "fluid - water",
+                100
+            ]
+        ]
+    }
+]

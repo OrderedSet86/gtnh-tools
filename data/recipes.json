@@ -1,0 +1,6178 @@
+[
+    {
+        "m": "bending machine",
+        "dur": 2.8,
+        "eut": 24,
+        "I": [
+            [
+                "steel ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "steel plate",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "1x red alloy cable",
+                3
+            ],
+            [
+                "vacuum tube",
+                2
+            ],
+            [
+                "resistor",
+                2
+            ],
+            [
+                "steel casing",
+                1
+            ],
+            [
+                "circuit board",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "electronic circuit",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "alloy smelter",
+        "dur": 6.4,
+        "eut": 15,
+        "I": [
+            [
+                "steel ingot",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "steel casing",
+                3
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "assembler",
+        "dur": 10,
+        "eut": 7,
+        "I": [
+            [
+                "wood plank",
+                1
+            ],
+            [
+                "copper foil",
+                4
+            ],
+            [
+                "fluid - refined glue",
+                72
+            ]
+        ],
+        "O": [
+            [
+                "circuit board",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "compressor",
+        "dur": 7.5,
+        "eut": 8,
+        "I": [
+            [
+                "wood pulp",
+                8
+            ]
+        ],
+        "O": [
+            [
+                "wood plank",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "bending machine",
+        "dur": 3.15,
+        "eut": 24,
+        "I": [
+            [
+                "copper plate",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "copper foil",
+                4
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "1x red alloy wire",
+                1
+            ],
+            [
+                "rubber sheet",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "1x red alloy cable",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "bending machine",
+        "dur": 3.15,
+        "eut": 24,
+        "I": [
+            [
+                "copper ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "copper plate",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "assembler",
+        "dur": 1.0,
+        "eut": 28,
+        "I": [
+            [
+                "glass tube",
+                1
+            ],
+            [
+                "1x copper wire",
+                1
+            ],
+            [
+                "steel rod",
+                1
+            ],
+            [
+                "fluid - molten red alloy",
+                18
+            ]
+        ],
+        "O": [
+            [
+                "vacuum tube",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "pulverizer",
+        "dur": 10.0,
+        "eut": 8,
+        "I": [
+            [
+                "wood",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "wood pulp",
+                6
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "wiremill",
+        "dur": 2.5,
+        "eut": 16,
+        "I": [
+            [
+                "copper ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "1x copper wire",
+                2
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "alloy smelter",
+        "dur": 12.0,
+        "eut": 16,
+        "I": [
+            [
+                "glass dust",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "glass tube",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "steel ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "steel rod",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "fluid extractor",
+        "dur": 1.2,
+        "eut": 30,
+        "I": [
+            [
+                "red alloy ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "fluid - molten red alloy",
+                144
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "wiremill",
+        "dur": 2.5,
+        "eut": 16,
+        "I": [
+            [
+                "red alloy ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "1x red alloy wire",
+                2
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "assembler",
+        "dur": 16.0,
+        "eut": 16,
+        "I": [
+            [
+                "carbon dust",
+                1
+            ],
+            [
+                "fine copper wire",
+                4
+            ],
+            [
+                "1x copper wire",
+                4
+            ],
+            [
+                "fluid - refined glue",
+                288
+            ]
+        ],
+        "O": [
+            [
+                "resistor",
+                4
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "wiremill",
+        "dur": 5.0,
+        "eut": 28,
+        "I": [
+            [
+                "1x copper wire",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "fine copper wire",
+                4
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "alloy smelter",
+        "dur": 2.5,
+        "eut": 16,
+        "I": [
+            [
+                "copper ingot",
+                1
+            ],
+            [
+                "redstone",
+                4
+            ]
+        ],
+        "O": [
+            [
+                "red alloy ingot",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "extruder",
+        "dur": 0.25,
+        "eut": 24,
+        "I": [
+            [
+                "rubber bar",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "rubber sheet",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "alloy smelter",
+        "dur": 5.0,
+        "eut": 28,
+        "I": [
+            [
+                "raw rubber dust",
+                3
+            ],
+            [
+                "sulfur dust",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "rubber bar",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "extractor",
+        "dur": 7.5,
+        "eut": 8,
+        "I": [
+            [
+                "sticky resin",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "raw rubber dust",
+                3
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "quartz sand",
+                1
+            ],
+            [
+                "tiny pile of flint dust",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "glass dust",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "sand",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "quartz sand",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "electronic circuit",
+                4
+            ],
+            [
+                "electric motor (LV)",
+                2
+            ],
+            [
+                "1x tin cable",
+                2
+            ],
+            [
+                "LV machine hull",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "LV centrifuge",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "LV machine casing",
+                1
+            ],
+            [
+                "wrought iron plate",
+                1
+            ],
+            [
+                "steel plate",
+                1
+            ],
+            [
+                "1x tin cable",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "LV machine hull",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "steel plate",
+                8
+            ]
+        ],
+        "O": [
+            [
+                "LV machine casing",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "LV centrifuge",
+                1
+            ],
+            [
+                "LV gas turbine",
+                1
+            ],
+            [
+                "electronic circuit",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "user - methane core",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "1x tin wire",
+                1
+            ],
+            [
+                "rubber sheet",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "1x tin cable",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "wiremill",
+        "dur": 2.5,
+        "eut": 16,
+        "I": [
+            [
+                "tin ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "1x tin wire",
+                2
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "1x tin cable",
+                2
+            ],
+            [
+                "1x copper wire",
+                4
+            ],
+            [
+                "iron rod",
+                2
+            ],
+            [
+                "magnetic iron rod",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "electric motor (LV)",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "iron rod",
+                1
+            ],
+            [
+                "redstone",
+                4
+            ]
+        ],
+        "O": [
+            [
+                "magnetic iron rod",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "iron ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "iron rod",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "bending machine",
+        "dur": 2.8,
+        "eut": 24,
+        "I": [
+            [
+                "wrought iron ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "wrought iron plate",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "compressor",
+        "dur": 7.5,
+        "eut": 8,
+        "I": [
+            [
+                "wrought iron nugget",
+                9
+            ]
+        ],
+        "O": [
+            [
+                "wrought iron ingot",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "electric furnace",
+        "dur": 6,
+        "eut": 4,
+        "I": [
+            [
+                "iron nugget",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "wrought iron nugget",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "alloy smelter",
+        "dur": 2.5,
+        "eut": 4,
+        "I": [
+            [
+                "iron ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "iron nugget",
+                9
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "tin plate",
+                4
+            ],
+            [
+                "tin ring",
+                1
+            ],
+            [
+                "tin screw",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "tin rotor",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "electronic circuit",
+                2
+            ],
+            [
+                "tin rotor",
+                3
+            ],
+            [
+                "LV machine hull",
+                1
+            ],
+            [
+                "1x tin cable",
+                1
+            ],
+            [
+                "electric motor (LV)",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "LV gas turbine",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "tin rod",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "tin ring",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "tin ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "tin rod",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "bending machine",
+        "dur": 5.9,
+        "eut": 24,
+        "I": [
+            [
+                "tin ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "tin plate",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "lathe",
+        "dur": 0.35,
+        "eut": 16,
+        "I": [
+            [
+                "tin bolt",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "tin screw",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "tin rod",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "tin bolt",
+                2
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "robot arm (LV)",
+                2
+            ],
+            [
+                "electronic circuit",
+                2
+            ],
+            [
+                "1x tin cable",
+                2
+            ],
+            [
+                "conveyor module (LV)",
+                2
+            ],
+            [
+                "LV machine hull",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "LV assembling machine",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "1x tin cable",
+                1
+            ],
+            [
+                "electric motor (LV)",
+                2
+            ],
+            [
+                "rubber sheet",
+                6
+            ]
+        ],
+        "O": [
+            [
+                "conveyor module (LV)",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "1x tin cable",
+                3
+            ],
+            [
+                "steel rod",
+                2
+            ],
+            [
+                "electronic circuit",
+                1
+            ],
+            [
+                "electric motor (LV)",
+                2
+            ],
+            [
+                "electric piston (LV)",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "robot arm (LV)",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "steel plate",
+                3
+            ],
+            [
+                "steel rod",
+                2
+            ],
+            [
+                "electric motor (LV)",
+                1
+            ],
+            [
+                "1x tin wire",
+                2
+            ],
+            [
+                "small steel gear",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "electric piston (LV)",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "steel plate",
+                1
+            ],
+            [
+                "steel rod",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "small steel gear",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "iron tank wall",
+                24
+            ],
+            [
+                "iron tank gauge",
+                8
+            ],
+            [
+                "iron tank valve",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "user - iron tank",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "assembler",
+        "dur": 30.0,
+        "eut": 30,
+        "I": [
+            [
+                "iron plate",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "iron tank wall",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "assembler",
+        "dur": 29.0,
+        "eut": 30,
+        "I": [
+            [
+                "iron plate",
+                1
+            ],
+            [
+                "glass pane",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "iron tank gauge",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "assembler",
+        "dur": 40.0,
+        "eut": 30,
+        "I": [
+            [
+                "large bronze fluid pipe",
+                2
+            ],
+            [
+                "iron bars",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "iron tank valve",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "assembler",
+        "dur": 7.5,
+        "eut": 16,
+        "I": [
+            [
+                "iron rod",
+                3
+            ]
+        ],
+        "O": [
+            [
+                "iron bars",
+                4
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "bending machine",
+        "dur": 2.8,
+        "eut": 24,
+        "I": [
+            [
+                "iron ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "iron plate",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "bronze plate",
+                6
+            ]
+        ],
+        "O": [
+            [
+                "large bronze fluid pipe",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "bending machine",
+        "dur": 3.8,
+        "eut": 24,
+        "I": [
+            [
+                "bronze ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "bronze plate",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "heat proof machine casing",
+                11
+            ],
+            [
+                "electric blast furnace",
+                1
+            ],
+            [
+                "input bus (LV)",
+                1
+            ],
+            [
+                "output bus (LV)",
+                1
+            ],
+            [
+                "input hatch (LV)",
+                1
+            ],
+            [
+                "maintenance hatch",
+                1
+            ],
+            [
+                "muffler hatch (LV)",
+                1
+            ],
+            [
+                "LV energy hatch",
+                2
+            ],
+            [
+                "2x cupronickel wire",
+                128
+            ],
+            [
+                "cupronickel coil block",
+                16
+            ]
+        ],
+        "O": [
+            [
+                "user - ebf",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "invar plate",
+                6
+            ],
+            [
+                "invar frame box",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "heat proof machine casing",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "iron furnace",
+                3
+            ],
+            [
+                "electronic circuit",
+                3
+            ],
+            [
+                "heat proof machine casing",
+                1
+            ],
+            [
+                "1x tin cable",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "electric blast furnace",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "assembler",
+        "dur": 1.6,
+        "eut": 28,
+        "I": [
+            [
+                "invar rod",
+                4
+            ]
+        ],
+        "O": [
+            [
+                "invar frame box",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "lathe",
+        "dur": 14.0,
+        "eut": 16,
+        "I": [
+            [
+                "invar ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "invar rod",
+                1
+            ],
+            [
+                "small pile of invar dust",
+                2
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "bending machine",
+        "dur": 2.8,
+        "eut": 24,
+        "I": [
+            [
+                "invar ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "invar plate",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "alloy smelter",
+        "dur": 7.5,
+        "eut": 16,
+        "I": [
+            [
+                "iron ingot",
+                2
+            ],
+            [
+                "nickel ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "invar ingot",
+                3
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "assembler",
+        "dur": 20.0,
+        "eut": 16,
+        "I": [
+            [
+                "furnace",
+                1
+            ],
+            [
+                "iron plate",
+                5
+            ]
+        ],
+        "O": [
+            [
+                "iron furnace",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "assembler",
+        "dur": 24.0,
+        "eut": 30,
+        "I": [
+            [
+                "LV machine hull",
+                1
+            ],
+            [
+                "chest",
+                1
+            ],
+            [
+                "fluid - refined glue",
+                720
+            ]
+        ],
+        "O": [
+            [
+                "input bus (LV)",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "assembler",
+        "dur": 24.0,
+        "eut": 30,
+        "I": [
+            [
+                "LV machine hull",
+                1
+            ],
+            [
+                "chest",
+                1
+            ],
+            [
+                "fluid - refined glue",
+                720
+            ]
+        ],
+        "O": [
+            [
+                "output bus (LV)",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "assembler",
+        "dur": 24.0,
+        "eut": 30,
+        "I": [
+            [
+                "LV machine hull",
+                1
+            ],
+            [
+                "tank",
+                1
+            ],
+            [
+                "fluid - refined glue",
+                720
+            ]
+        ],
+        "O": [
+            [
+                "input hatch (LV)",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "alloy smelter",
+        "dur": 5.0,
+        "eut": 28,
+        "I": [
+            [
+                "glass",
+                1
+            ],
+            [
+                "obsidian dust",
+                4
+            ]
+        ],
+        "O": [
+            [
+                "obsidian glass",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "assembler",
+        "dur": 2.5,
+        "eut": 28,
+        "I": [
+            [
+                "obsidian glass",
+                1
+            ],
+            [
+                "iron ring",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "tank",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "LV machine hull",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "maintenance hatch",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "LV machine hull",
+                1
+            ],
+            [
+                "electric motor (LV)",
+                1
+            ],
+            [
+                "bronze rotor",
+                1
+            ],
+            [
+                "bronze fluid pipe",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "muffler hatch (LV)",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "lubricant cell",
+                2
+            ],
+            [
+                "LV machine hull",
+                1
+            ],
+            [
+                "electric pump (LV)",
+                1
+            ],
+            [
+                "low voltage coil",
+                2
+            ],
+            [
+                "1x tin cable",
+                2
+            ],
+            [
+                "electronic circuit",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "LV energy hatch",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "tin screw",
+                1
+            ],
+            [
+                "tin rotor",
+                1
+            ],
+            [
+                "rubber ring",
+                2
+            ],
+            [
+                "bronze fluid pipe",
+                1
+            ],
+            [
+                "electric motor (LV)",
+                1
+            ],
+            [
+                "1x tin cable",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "electric pump (LV)",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "extruder",
+        "dur": 0.5,
+        "eut": 18,
+        "I": [
+            [
+                "rubber bar",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "rubber ring",
+                4
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "bronze plate",
+                6
+            ]
+        ],
+        "O": [
+            [
+                "bronze fluid pipe",
+                2
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "assembler",
+        "dur": 10.0,
+        "eut": 30,
+        "I": [
+            [
+                "magnetic iron rod",
+                1
+            ],
+            [
+                "fine steel wire",
+                16
+            ]
+        ],
+        "O": [
+            [
+                "low voltage coil",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "distillery",
+        "dur": 3.0,
+        "eut": 30,
+        "I": [
+            [
+                "fluid - creosote oil",
+                25
+            ]
+        ],
+        "O": [
+            [
+                "fluid - lubricant",
+                8
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "1x cupronickel wire",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "2x cupronickel wire",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "wiremill",
+        "dur": 2.5,
+        "eut": 16,
+        "I": [
+            [
+                "cupronickel ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "1x cupronickel wire",
+                2
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "alloy smelter",
+        "dur": 5.0,
+        "eut": 16,
+        "I": [
+            [
+                "copper ingot",
+                1
+            ],
+            [
+                "nickel ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "cupronickel ingot",
+                2
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "assembler",
+        "dur": 2.5,
+        "eut": 28,
+        "I": [
+            [
+                "2x cupronickel wire",
+                8
+            ],
+            [
+                "mica insulator foil",
+                8
+            ],
+            [
+                "fluid - molten tin",
+                144
+            ]
+        ],
+        "O": [
+            [
+                "cupronickel coil block",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "bending machine",
+        "dur": 5.0,
+        "eut": 30,
+        "I": [
+            [
+                "mica insulator sheet",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "mica insulator foil",
+                4
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "electrolyzer",
+        "dur": 25.0,
+        "eut": 25,
+        "I": [
+            [
+                "sand",
+                8
+            ]
+        ],
+        "O": [
+            [
+                "silicon dioxide dust",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "alloy smelter",
+        "dur": 20.0,
+        "eut": 30,
+        "I": [
+            [
+                "mica based sheet",
+                4
+            ],
+            [
+                "silicon dioxide dust",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "mica insulator sheet",
+                4
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "forming press",
+        "dur": 20.0,
+        "eut": 28,
+        "I": [
+            [
+                "mica based pulp",
+                4
+            ],
+            [
+                "asbestos dust",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "mica based sheet",
+                4
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "mixer",
+        "dur": 10.0,
+        "eut": 28,
+        "I": [
+            [
+                "mica dust",
+                3
+            ],
+            [
+                "raw rubber dust",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "mica based pulp",
+                4
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "fluid - lubricant",
+                1000
+            ]
+        ],
+        "O": [
+            [
+                "lubricant cell",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "wiremill",
+        "dur": 5.0,
+        "eut": 28,
+        "I": [
+            [
+                "1x steel wire",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "fine steel wire",
+                4
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "wiremill",
+        "dur": 2.5,
+        "eut": 16,
+        "I": [
+            [
+                "steel ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "1x steel wire",
+                2
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "fluid extractor",
+        "dur": 1.2,
+        "eut": 30,
+        "I": [
+            [
+                "tin ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "fluid - molten tin",
+                144
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "bronze plate",
+                4
+            ],
+            [
+                "bronze screw",
+                1
+            ],
+            [
+                "bronze ring",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "bronze rotor",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "lathe",
+        "dur": 0.225,
+        "eut": 16,
+        "I": [
+            [
+                "bronze bolt",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "bronze screw",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "bronze rod",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "bronze bolt",
+                2
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "bronze ingot",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "bronze rod",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "bronze rod",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "bronze ring",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "iron rod",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "iron ring",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "centrifuge",
+        "dur": 10.0,
+        "eut": 20,
+        "I": [
+            [
+                "wood",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "fluid - methane gas",
+                60
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "gas turbine",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "fluid - methane gas",
+                1000
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                104000
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "pyrolyse oven",
+        "dur": 32.0,
+        "eut": 64,
+        "I": [
+            [
+                "wood",
+                16
+            ]
+        ],
+        "O": [
+            [
+                "charcoal",
+                20
+            ],
+            [
+                "fluid - creosote oil",
+                4000
+            ]
+        ],
+        "ma": "MV"
+    },
+    {
+        "m": "pyrolyse oven",
+        "dur": 32.0,
+        "eut": 64,
+        "I": [
+            [
+                "wood",
+                16
+            ]
+        ],
+        "O": [
+            [
+                "charcoal",
+                20
+            ],
+            [
+                "fluid - wood vinegar",
+                3000
+            ]
+        ],
+        "ma": "MV"
+    },
+    {
+        "m": "pyrolyse oven",
+        "dur": 32.0,
+        "eut": 64,
+        "I": [
+            [
+                "wood",
+                16
+            ]
+        ],
+        "O": [
+            [
+                "charcoal",
+                20
+            ],
+            [
+                "fluid - wood tar",
+                1500
+            ]
+        ],
+        "ma": "MV"
+    },
+    {
+        "m": "pyrolyse oven",
+        "dur": 32.0,
+        "eut": 64,
+        "I": [
+            [
+                "wood",
+                16
+            ]
+        ],
+        "O": [
+            [
+                "charcoal",
+                20
+            ],
+            [
+                "fluid - wood gas",
+                1500
+            ]
+        ],
+        "ma": "MV"
+    },
+    {
+        "m": "distillery",
+        "dur": 0.8,
+        "eut": 64,
+        "I": [
+            [
+                "fluid - wood tar",
+                200
+            ]
+        ],
+        "O": [
+            [
+                "fluid - benzene",
+                70
+            ]
+        ],
+        "ma": "MV"
+    },
+    {
+        "m": "gas turbine",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "fluid - benzene",
+                1000
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                288000
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "fluid extractor",
+        "dur": 3.2,
+        "eut": 16,
+        "I": [
+            [
+                "charcoal",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "ashes",
+                1
+            ],
+            [
+                "fluid - wood tar",
+                100
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "mixer",
+        "dur": 10.0,
+        "eut": 16,
+        "I": [
+            [
+                "dirt",
+                1
+            ],
+            [
+                "ashes",
+                4
+            ],
+            [
+                "fluid - water",
+                100
+            ]
+        ],
+        "O": [
+            [
+                "compost",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "pulverizer",
+        "dur": 7.5,
+        "eut": 8,
+        "I": [
+            [
+                "bio chaff",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "dirt",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "centrifuge",
+        "dur": 7.5,
+        "eut": 16,
+        "I": [
+            [
+                "plant mass",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "bio chaff",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "pulverizer",
+        "dur": 2.5,
+        "eut": 480,
+        "I": [
+            [
+                "plantball",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "plant mass",
+                2
+            ]
+        ],
+        "ma": "HV"
+    },
+    {
+        "m": "pulverizer",
+        "dur": 10.0,
+        "eut": 30,
+        "I": [
+            [
+                "plantball",
+                2
+            ]
+        ],
+        "O": [
+            [
+                "plant mass",
+                1
+            ]
+        ],
+        "ma": "LV"
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "I": [
+            [
+                "small pile of wood pulp",
+                4
+            ]
+        ],
+        "O": [
+            [
+                "wood pulp",
+                1
+            ]
+        ],
+        "ma": "S"
+    },
+    {
+        "m": "pulverizer",
+        "ma": "LV",
+        "dur": 10.0,
+        "eut": 8,
+        "I": [
+            [
+                "wood",
+                1
+            ]
+        ],
+        "O": [
+            [
+                "wood pulp",
+                6
+            ]
+        ]
+    },
+    {
+        "m": "chemical bath",
+        "ma": "LV",
+        "dur": 25.0,
+        "eut": 30,
+        "I": [
+            [
+                "bio chaff",
+                1.0
+            ],
+            [
+                "fluid - water",
+                750.0
+            ]
+        ],
+        "O": [
+            [
+                "mulch",
+                10.12
+            ]
+        ]
+    },
+    {
+        "m": "brewing machine",
+        "ma": "LV",
+        "dur": 3.2,
+        "eut": 16,
+        "I": [
+            [
+                "mulch",
+                16.0
+            ],
+            [
+                "fluid - water",
+                750.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - biomass",
+                750.0
+            ]
+        ]
+    },
+    {
+        "m": "distillery",
+        "ma": "LV",
+        "dur": 0.8,
+        "eut": 24,
+        "I": [
+            [
+                "fluid - biomass",
+                40.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - ethanol",
+                20.0
+            ]
+        ]
+    },
+    {
+        "m": "combustion generator",
+        "ma": "LV",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "fluid - ethanol",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                192000.0
+            ]
+        ]
+    },
+    {
+        "m": "distillation tower",
+        "ma": "HV",
+        "dur": 1.6,
+        "eut": 400,
+        "I": [
+            [
+                "fluid - biomass",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "small pile of wood pulp",
+                2.0
+            ],
+            [
+                "fluid - ethanol",
+                600.0
+            ],
+            [
+                "fluid - water",
+                300.0
+            ]
+        ]
+    },
+    {
+        "m": "fluid heater",
+        "ma": "LV",
+        "dur": 1.5,
+        "eut": 30,
+        "I": [
+            [
+                "fluid - water",
+                6.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - steam",
+                960.0
+            ]
+        ]
+    },
+    {
+        "m": "pyrolyse oven",
+        "ma": "MV",
+        "dur": 72.0,
+        "eut": 30,
+        "I": [
+            [
+                "wood",
+                20.0
+            ],
+            [
+                "fluid - steam",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "charcoal",
+                24.0
+            ],
+            [
+                "fluid - coal gas",
+                1440.0
+            ]
+        ]
+    },
+    {
+        "m": "gas turbine",
+        "ma": "LV",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "fluid - coal gas",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                96000.0
+            ]
+        ]
+    },
+    {
+        "m": "gas turbine",
+        "ma": "LV",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "fluid - wood gas",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                24000.0
+            ]
+        ]
+    },
+    {
+        "m": "distillery",
+        "ma": "MV",
+        "dur": 0.8,
+        "eut": 64,
+        "I": [
+            [
+                "fluid - wood gas",
+                200.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - methane gas",
+                26.0
+            ]
+        ]
+    },
+    {
+        "m": "distillation tower",
+        "ma": "HV",
+        "dur": 2.0,
+        "eut": 256,
+        "I": [
+            [
+                "fluid - wood gas",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - methane gas",
+                130.0
+            ],
+            [
+                "fluid - carbon monoxide",
+                340.0
+            ],
+            [
+                "fluid - hydrogen gas",
+                20.0
+            ],
+            [
+                "fluid - co2 gas",
+                490.0
+            ],
+            [
+                "fluid - ethylene",
+                20.0
+            ]
+        ]
+    },
+    {
+        "m": "gas turbine",
+        "dur": 0,
+        "eut": 0,
+        "ma": "LV",
+        "I": [
+            [
+                "fluid - carbon monoxide",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                24000.0
+            ]
+        ]
+    },
+    {
+        "m": "gas turbine",
+        "dur": 0,
+        "eut": 0,
+        "ma": "LV",
+        "I": [
+            [
+                "fluid - hydrogen gas",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                20000.0
+            ]
+        ]
+    },
+    {
+        "m": "large chemical reactor",
+        "ma": "HV",
+        "dur": 6.0,
+        "eut": 96,
+        "I": [
+            [
+                "fluid - hydrogen gas",
+                6000.0
+            ],
+            [
+                "fluid - co2 gas",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - water",
+                1000.0
+            ],
+            [
+                "fluid - methanol",
+                1000.0
+            ]
+        ]
+    },
+    {
+        "m": "combustion generator",
+        "dur": 0,
+        "eut": 0,
+        "ma": "LV",
+        "I": [
+            [
+                "fluid - methanol",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                84000.0
+            ]
+        ]
+    },
+    {
+        "m": "gas turbine",
+        "dur": 0,
+        "eut": 0,
+        "ma": "LV",
+        "I": [
+            [
+                "fluid - ethylene",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                128000.0
+            ]
+        ]
+    },
+    {
+        "m": "large chemical reactor",
+        "ma": "HV",
+        "dur": 8.0,
+        "eut": 30,
+        "I": [
+            [
+                "fluid - steam",
+                1000.0
+            ],
+            [
+                "fluid - ethylene",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - lightly steam-cracked ethylene",
+                800.0
+            ]
+        ]
+    },
+    {
+        "m": "distillery",
+        "ma": "LV",
+        "dur": 12.0,
+        "eut": 30,
+        "I": [
+            [
+                "fluid - lightly steam-cracked ethylene",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - methane gas",
+                1000.0
+            ],
+            [
+                "carbon dust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "brewing machine",
+        "ma": "LV",
+        "dur": 20.0,
+        "eut": 12,
+        "I": [
+            [
+                "sapling",
+                1.0
+            ],
+            [
+                "fluid - water",
+                100.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - biomass",
+                100.0
+            ]
+        ]
+    },
+    {
+        "m": "compressor",
+        "ma": "LV",
+        "dur": 7.5,
+        "eut": 8,
+        "I": [
+            [
+                "sapling",
+                8.0
+            ]
+        ],
+        "O": [
+            [
+                "plantball",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "plantball -> bio chaff (pulv + centri)",
+        "ma": "LV",
+        "dur": 17.5,
+        "eut": 24,
+        "I": [
+            [
+                "plantball",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "bio chaff",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "fermenter",
+        "ma": "LV",
+        "dur": 3.75,
+        "eut": 8,
+        "I": [
+            [
+                "fluid - biomass",
+                100.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - fermented biomass",
+                100.0
+            ]
+        ]
+    },
+    {
+        "m": "distillation tower",
+        "ma": "HV",
+        "dur": 3.75,
+        "eut": 180,
+        "I": [
+            [
+                "fluid - fermented biomass",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - co2 gas",
+                400.0
+            ],
+            [
+                "fluid - methane gas",
+                600.0
+            ],
+            [
+                "fluid - ethanol",
+                150.0
+            ],
+            [
+                "fluid - methanol",
+                150.0
+            ],
+            [
+                "fluid - ammonia",
+                100.0
+            ],
+            [
+                "fluid - acetic acid",
+                25.0
+            ],
+            [
+                "fluid - water",
+                375.0
+            ],
+            [
+                "fertilizer",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "distillery",
+        "ma": "LV",
+        "dur": 0.4,
+        "eut": 28,
+        "I": [
+            [
+                "fluid - fermented biomass",
+                10.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - biogas",
+                18.0
+            ]
+        ]
+    },
+    {
+        "m": "gas turbine",
+        "dur": 0,
+        "eut": 0,
+        "ma": "LV",
+        "I": [
+            [
+                "fluid - biogas",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                40000.0
+            ]
+        ]
+    },
+    {
+        "m": "distillery",
+        "ma": "LV",
+        "dur": 0.5,
+        "eut": 28,
+        "I": [
+            [
+                "fluid - methane gas",
+                125.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - biogas",
+                375.0
+            ]
+        ]
+    },
+    {
+        "m": "steam turbine",
+        "dur": 0,
+        "eut": 0,
+        "ma": "LV",
+        "I": [
+            [
+                "fluid - steam",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                500.0
+            ]
+        ]
+    },
+    {
+        "m": "large bronze boiler",
+        "ma": "MV",
+        "dur": 0.35,
+        "eut": 0,
+        "I": [
+            [
+                "wood",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - steam",
+                6300.0
+            ]
+        ]
+    },
+    {
+        "m": "compressor",
+        "ma": "LV",
+        "dur": 7.5,
+        "eut": 8,
+        "I": [
+            [
+                "diamond",
+                9.0
+            ]
+        ],
+        "O": [
+            [
+                "block of diamond",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "compressor",
+        "ma": "LV",
+        "dur": 7.5,
+        "eut": 8,
+        "I": [
+            [
+                "coal chunk",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "diamond",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "blast furnace",
+        "ma": "LV",
+        "dur": 60.0,
+        "eut": 120,
+        "I": [
+            [
+                "bio chunk",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "coal chunk",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "assembler",
+        "ma": "MV",
+        "dur": 60.0,
+        "eut": 64,
+        "I": [
+            [
+                "block of charcoal",
+                1.0
+            ],
+            [
+                "compressed bio ball",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "bio chunk",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "compressor",
+        "ma": "LV",
+        "dur": 7.5,
+        "eut": 8,
+        "I": [
+            [
+                "bio ball",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "compressed bio ball",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "mixer",
+        "ma": "LV",
+        "dur": 10.0,
+        "eut": 16,
+        "I": [
+            [
+                "plantball",
+                16.0
+            ],
+            [
+                "flint dust",
+                2.0
+            ]
+        ],
+        "O": [
+            [
+                "bio ball",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "forge hammer",
+        "ma": "LV",
+        "dur": 1.6,
+        "eut": 16,
+        "I": [
+            [
+                "flint",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "tiny pile of flint dust",
+                2.0
+            ]
+        ]
+    },
+    {
+        "m": "pulverizer",
+        "ma": "LV",
+        "dur": 20.0,
+        "eut": 8,
+        "I": [
+            [
+                "flint",
+                2.0
+            ]
+        ],
+        "O": [
+            [
+                "flint dust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "sifter",
+        "ma": "LV",
+        "dur": 30.0,
+        "eut": 16,
+        "I": [
+            [
+                "gravel",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "flint",
+                3.88
+            ]
+        ]
+    },
+    {
+        "m": "forge hammer",
+        "ma": "LV",
+        "dur": 0.5,
+        "eut": 16,
+        "I": [
+            [
+                "cobblestone",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "gravel",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "distillery",
+        "ma": "MV",
+        "dur": 0.8,
+        "eut": 64,
+        "I": [
+            [
+                "fluid - wood vinegar",
+                200.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - methanol",
+                60.0
+            ]
+        ]
+    },
+    {
+        "m": "distillation tower",
+        "ma": "HV",
+        "dur": 2.0,
+        "eut": 256,
+        "I": [
+            [
+                "fluid - wood tar",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - benzene",
+                350.0
+            ],
+            [
+                "fluid - toluene",
+                75.0
+            ],
+            [
+                "fluid - dimethylbenzene",
+                200.0
+            ],
+            [
+                "fluid - creosote oil",
+                300.0
+            ],
+            [
+                "fluid - phenol",
+                75.0
+            ]
+        ]
+    },
+    {
+        "m": "gas turbine",
+        "dur": 0,
+        "eut": 0,
+        "ma": "LV",
+        "I": [
+            [
+                "fluid - toluene",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                328000.0
+            ]
+        ]
+    },
+    {
+        "m": "distillery",
+        "ma": "LV",
+        "dur": 0.8,
+        "eut": 24,
+        "I": [
+            [
+                "fluid - toluene",
+                30.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - light fuel",
+                30.0
+            ]
+        ]
+    },
+    {
+        "m": "combustion generator",
+        "dur": 0,
+        "eut": 0,
+        "ma": "LV",
+        "I": [
+            [
+                "fluid - light fuel",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                305000.0
+            ]
+        ]
+    },
+    {
+        "m": "gas turbine",
+        "dur": 0,
+        "eut": 0,
+        "ma": "LV",
+        "I": [
+            [
+                "fluid - phenol",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                288000.0
+            ]
+        ]
+    },
+    {
+        "m": "centrifuge",
+        "ma": "LV",
+        "dur": 10.0,
+        "eut": 20,
+        "I": [
+            [
+                "rubber wood",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "sticky resin",
+                0.5
+            ],
+            [
+                "plantball",
+                0.375
+            ],
+            [
+                "carbon dust",
+                0.25
+            ],
+            [
+                "wood pulp",
+                0.25
+            ],
+            [
+                "fluid - methane",
+                60.0
+            ]
+        ]
+    },
+    {
+        "m": "chemical reactor",
+        "ma": "LV",
+        "dur": 10.0,
+        "eut": 30,
+        "I": [
+            [
+                "carbon dust",
+                1.0
+            ],
+            [
+                "fluid - hydrogen gas",
+                4000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - methane gas",
+                1000.0
+            ]
+        ]
+    },
+    {
+        "m": "electrolyzer",
+        "ma": "LV",
+        "dur": 50.0,
+        "eut": 30,
+        "I": [
+            [
+                "fluid - water",
+                1500.0
+            ],
+            [
+                "empty cell",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "hydrogen cell",
+                1.0
+            ],
+            [
+                "fluid - oxygen gas",
+                500.0
+            ]
+        ]
+    },
+    {
+        "m": "electrolyzer",
+        "ma": "LV",
+        "dur": 100.0,
+        "eut": 30,
+        "I": [
+            [
+                "fluid - water",
+                3000.0
+            ],
+            [
+                "empty cell",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "oxygen cell",
+                1.0
+            ],
+            [
+                "fluid - hydrogen gas",
+                2000.0
+            ]
+        ]
+    },
+    {
+        "m": "pyrolyse oven",
+        "ma": "MV",
+        "dur": 16.0,
+        "eut": 64,
+        "I": [
+            [
+                "sugar",
+                23.0
+            ]
+        ],
+        "O": [
+            [
+                "charcoal dust",
+                12.0
+            ],
+            [
+                "fluid - water",
+                1500.0
+            ]
+        ]
+    },
+    {
+        "m": "pulverizer",
+        "ma": "LV",
+        "dur": 10.0,
+        "eut": 8,
+        "I": [
+            [
+                "sugar cane",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "sugar",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "large bronze boiler",
+        "ma": "LV",
+        "dur": 2.0,
+        "eut": 0,
+        "I": [
+            [
+                "charcoal dust",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - steam",
+                36000.0
+            ]
+        ]
+    },
+    {
+        "m": "extractor",
+        "ma": "LV",
+        "dur": 4.0,
+        "eut": 28,
+        "I": [
+            [
+                "sugar beet",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "sugar",
+                8.0
+            ]
+        ]
+    },
+    {
+        "m": "gtpp coke oven",
+        "ma": "HV",
+        "dur": 3.0,
+        "eut": 96,
+        "I": [
+            [
+                "wood",
+                4.0
+            ],
+            [
+                "fluid - nitrogen gas",
+                250.0
+            ]
+        ],
+        "O": [
+            [
+                "charcoal",
+                5.0
+            ],
+            [
+                "fluid - wood tar",
+                375.0
+            ]
+        ]
+    },
+    {
+        "m": "pyrolyse oven",
+        "ma": "MV",
+        "dur": 45.0,
+        "eut": 10,
+        "I": [
+            [
+                "mulch",
+                32.0
+            ],
+            [
+                "fluid - water",
+                4000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - biomass",
+                5000.0
+            ]
+        ]
+    },
+    {
+        "m": "burn time conversion",
+        "ma": "S",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "charcoal dust",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "burn time",
+                1600.0
+            ]
+        ]
+    },
+    {
+        "m": "large steel boiler",
+        "ma": "HV",
+        "dur": 1.5,
+        "eut": 0,
+        "I": [
+            [
+                "burn time",
+                1600.0
+            ],
+            [
+                "fluid - water",
+                240.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - steam",
+                36000.0
+            ]
+        ]
+    },
+    {
+        "m": "pyrolyse oven",
+        "ma": "MV",
+        "dur": 16.0,
+        "eut": 96,
+        "I": [
+            [
+                "wood",
+                16.0
+            ],
+            [
+                "fluid - nitrogen gas",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "coal",
+                20.0
+            ],
+            [
+                "fluid - charcoal byproducts",
+                4000.0
+            ]
+        ]
+    },
+    {
+        "m": "distillation tower",
+        "ma": "HV",
+        "dur": 2.0,
+        "eut": 256,
+        "I": [
+            [
+                "fluid - charcoal byproducts",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - wood gas",
+                250.0
+            ],
+            [
+                "fluid - dimethylbenzene",
+                100.0
+            ],
+            [
+                "fluid - wood tar",
+                250.0
+            ],
+            [
+                "fluid - wood vinegar",
+                400.0
+            ],
+            [
+                "small pile of charcoal dust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "pyrolyse oven",
+        "ma": "MV",
+        "dur": 36.0,
+        "eut": 120,
+        "I": [
+            [
+                "coal",
+                16.0
+            ],
+            [
+                "fluid - steam",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "coal coke",
+                10.0
+            ],
+            [
+                "fluid - coal gas",
+                2880.0
+            ]
+        ]
+    },
+    {
+        "m": "pyrolyse oven",
+        "ma": "HV",
+        "dur": 18.0,
+        "eut": 240,
+        "I": [
+            [
+                "coal coke",
+                8.0
+            ]
+        ],
+        "O": [
+            [
+                "small pile of ashes",
+                3.0
+            ],
+            [
+                "fluid - coal gas",
+                3400.0
+            ]
+        ]
+    },
+    {
+        "m": "burn time conversion",
+        "ma": "S",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "coal",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "burn time",
+                1600.0
+            ]
+        ]
+    },
+    {
+        "m": "burn time conversion",
+        "ma": "S",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "charcoal",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "burn time",
+                1600.0
+            ]
+        ]
+    },
+    {
+        "m": "advanced coke oven",
+        "ma": "MV",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "wood",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "charcoal",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "distillery",
+        "ma": "MV",
+        "dur": 1.25,
+        "eut": 64,
+        "I": [
+            [
+                "fluid - coal tar",
+                125.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - kerosene",
+                50.0
+            ]
+        ]
+    },
+    {
+        "m": "distillery",
+        "ma": "MV",
+        "dur": 0.8,
+        "eut": 120,
+        "I": [
+            [
+                "fluid - kerosene",
+                20.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - RP-1",
+                15.0
+            ]
+        ]
+    },
+    {
+        "m": "chem plant",
+        "ma": "HV",
+        "dur": 15.0,
+        "eut": 240,
+        "I": [
+            [
+                "fluid - liquid oxygen",
+                2000.0
+            ],
+            [
+                "fluid - RP-1",
+                500.0
+            ]
+        ],
+        "O": [
+            [
+                "RP-1 rocket fuel",
+                1500.0
+            ]
+        ]
+    },
+    {
+        "m": "rocket engine",
+        "ma": "EV",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "RP-1 rocket fuel",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                768000.0
+            ]
+        ]
+    },
+    {
+        "m": "rocket engine",
+        "ma": "EV",
+        "dur": 0.0,
+        "eut": 0,
+        "I": [
+            [
+                "fluid - dense hydrazine fuel mixture",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "EU",
+                1536000.0
+            ]
+        ]
+    },
+    {
+        "m": "chem plant",
+        "ma": "EV",
+        "dur": 30.0,
+        "eut": 240,
+        "I": [
+            [
+                "fluid - hydrazine",
+                4000.0
+            ],
+            [
+                "fluid - methanol",
+                6000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - dense hydrazine fuel mixture",
+                10000.0
+            ]
+        ]
+    },
+    {
+        "m": "chem plant",
+        "ma": "MV",
+        "dur": 30.0,
+        "eut": 120,
+        "I": [
+            [
+                "fluid - hydrogen peroxide",
+                2000.0
+            ],
+            [
+                "fluid - ammonia",
+                2000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - hydrazine",
+                4000.0
+            ]
+        ]
+    },
+    {
+        "m": "chem plant",
+        "ma": "MV",
+        "dur": 30.0,
+        "eut": 240,
+        "I": [
+            [
+                "fluid - air",
+                15000.0
+            ],
+            [
+                "fluid - 2-ethylanthrahydroquinone",
+                5000.0
+            ],
+            [
+                "fluid - anthracene",
+                50.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - 2-ethylanthraquinone",
+                4000.0
+            ],
+            [
+                "fluid - hydrogen peroxide",
+                2000.0
+            ]
+        ]
+    },
+    {
+        "m": "chem plant",
+        "ma": "MV",
+        "dur": 15.0,
+        "eut": 120,
+        "I": [
+            [
+                "fluid - ethylbenzene",
+                2000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - 2-ethylanthraquinone",
+                2576.0
+            ]
+        ]
+    },
+    {
+        "m": "chem plant",
+        "ma": "MV",
+        "dur": 40.0,
+        "eut": 120,
+        "I": [
+            [
+                "fluid - 2-ethylanthraquinone",
+                4000.0
+            ],
+            [
+                "fluid - hydrogen gas",
+                2000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - 2-ethylanthrahydroquinone",
+                5000.0
+            ]
+        ]
+    },
+    {
+        "m": "fluid canning machine",
+        "ma": "LV",
+        "dur": 0.4,
+        "eut": 4.0,
+        "I": [
+            [
+                "hydrogen cell",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "empty cell",
+                1.0
+            ],
+            [
+                "fluid - hydrogen gas",
+                1000.0
+            ]
+        ]
+    },
+    {
+        "m": "distillation tower",
+        "ma": "HV",
+        "dur": 45.0,
+        "eut": 60.0,
+        "I": [
+            [
+                "fluid - coal tar",
+                1200.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - ethylbenzene",
+                150.0
+            ],
+            [
+                "fluid - anthracene",
+                50.0
+            ],
+            [
+                "fluid - kerosene",
+                400.0
+            ],
+            [
+                "fluid - coal tar oil",
+                500.0
+            ],
+            [
+                "fluid - naphtha",
+                100.0
+            ]
+        ]
+    },
+    {
+        "m": "pyrolyse oven",
+        "ma": "MV",
+        "dur": 18.0,
+        "eut": 120.0,
+        "I": [
+            [
+                "charcoal",
+                32.0
+            ]
+        ],
+        "O": [
+            [
+                "small pile of dried earth dust",
+                2.0
+            ],
+            [
+                "fluid - coal tar",
+                800.0
+            ]
+        ]
+    },
+    {
+        "m": "air fluid gen (compressor -> canner)",
+        "ma": "LV",
+        "dur": 8.3,
+        "eut": 7.614458,
+        "I": [],
+        "O": [
+            [
+                "fluid - air",
+                2000.0
+            ]
+        ]
+    },
+    {
+        "m": "dehydrator",
+        "ma": "MV",
+        "dur": 100.0,
+        "eut": 90.0,
+        "I": [
+            [
+                "fluid - toluene",
+                10000.0
+            ],
+            [
+                "fluid - hydrogen",
+                10000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - methane",
+                1000.0
+            ],
+            [
+                "fluid - benzene",
+                19000.0
+            ]
+        ]
+    },
+    {
+        "m": "pyrolyse oven",
+        "ma": "MV",
+        "dur": 16.0,
+        "eut": 96.0,
+        "I": [
+            [
+                "log",
+                16.0
+            ],
+            [
+                "fluid - nitrogen gas",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "charcoal",
+                20.0
+            ],
+            [
+                "fluid - wood tar",
+                1500.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "pyrolyse oven",
+                1.0
+            ],
+            [
+                "LV energy hatch",
+                2.0
+            ],
+            [
+                "cupronickel coil block",
+                9.0
+            ],
+            [
+                "muffler hatch (LV)",
+                1.0
+            ],
+            [
+                "maintenance hatch",
+                1.0
+            ],
+            [
+                "input hatch (LV)",
+                1.0
+            ],
+            [
+                "output hatch (LV)",
+                1.0
+            ],
+            [
+                "input bus (LV)",
+                1.0
+            ],
+            [
+                "output bus (LV)",
+                1.0
+            ],
+            [
+                "pyrolyse oven casing",
+                66.0
+            ]
+        ],
+        "O": [
+            [
+                "user - pyrolyse oven",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "alloy smelter",
+        "ma": "LV",
+        "dur": 25.0,
+        "eut": 16.0,
+        "I": [
+            [
+                "tin ingot",
+                9.0
+            ],
+            [
+                "antimony dust",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "soldering alloy ingot",
+                10.0
+            ]
+        ]
+    },
+    {
+        "m": "fluid extractor",
+        "ma": "LV",
+        "dur": 1.2,
+        "eut": 28.0,
+        "I": [
+            [
+                "soldering alloy ingot",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - molten soldering alloy",
+                144.0
+            ]
+        ]
+    },
+    {
+        "m": "circuit assembler",
+        "ma": "LV",
+        "dur": 15.0,
+        "eut": 30.0,
+        "I": [
+            [
+                "good circuit board",
+                1.0
+            ],
+            [
+                "electronic circuit",
+                2.0
+            ],
+            [
+                "diode",
+                2.0
+            ],
+            [
+                "1x copper wire",
+                2.0
+            ],
+            [
+                "fluid - molten soldering alloy",
+                72.0
+            ]
+        ],
+        "O": [
+            [
+                "good electronic circuit",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "bronze plated bricks",
+                1.0
+            ],
+            [
+                "iron plate",
+                2.0
+            ],
+            [
+                "steel plate",
+                4.0
+            ]
+        ],
+        "O": [
+            [
+                "pyrolyse oven casing",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "bricks",
+                1.0
+            ],
+            [
+                "bronze plate",
+                6.0
+            ]
+        ],
+        "O": [
+            [
+                "bronze plated bricks",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "assembler",
+        "ma": "LV",
+        "dur": 24.0,
+        "eut": 30.0,
+        "I": [
+            [
+                "LV machine hull",
+                1.0
+            ],
+            [
+                "tank",
+                1.0
+            ],
+            [
+                "fluid - refined glue",
+                720.0
+            ]
+        ],
+        "O": [
+            [
+                "output hatch (LV)",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "1x cupronickel wire",
+                4.0
+            ]
+        ],
+        "O": [
+            [
+                "4x cupronickel wire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "good electronic circuit",
+                3.0
+            ],
+            [
+                "MV machine hull",
+                1.0
+            ],
+            [
+                "electric pump (MV)",
+                1.0
+            ],
+            [
+                "electric piston (MV)",
+                2.0
+            ],
+            [
+                "4x cupronickel wire",
+                2.0
+            ]
+        ],
+        "O": [
+            [
+                "pyrolyse oven",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "1x copper cable",
+                2.0
+            ],
+            [
+                "wrought iron plate",
+                2.0
+            ],
+            [
+                "aluminum plate",
+                1.0
+            ],
+            [
+                "MV machine casing",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "MV machine hull",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "aluminum plate",
+                8.0
+            ]
+        ],
+        "O": [
+            [
+                "MV machine casing",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "bending machine",
+        "ma": "LV",
+        "dur": 1.3,
+        "eut": 24.0,
+        "I": [
+            [
+                "aluminum ingot",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "aluminum plate",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "ebf",
+        "ma": "MV",
+        "dur": 60.0,
+        "eut": 120.0,
+        "I": [
+            [
+                "aluminum dust",
+                1.0
+            ],
+            [
+                "fluid - nitrogen gas",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "aluminum ingot",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "nitrogen + oxygen source (compressor -> centrifuge)",
+        "ma": "LV",
+        "dur": 40.0,
+        "eut": 35.5,
+        "I": [],
+        "O": [
+            [
+                "fluid - oxygen gas",
+                1000.0
+            ],
+            [
+                "fluid - nitrogen gas",
+                3900.0
+            ]
+        ]
+    },
+    {
+        "m": "assembler",
+        "ma": "LV",
+        "dur": 2.5,
+        "eut": 28.0,
+        "I": [
+            [
+                "1x copper wire",
+                1.0
+            ],
+            [
+                "fluid - molten rubber",
+                144.0
+            ]
+        ],
+        "O": [
+            [
+                "1x copper cable",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "electric motor (MV)",
+                1.0
+            ],
+            [
+                "rubber ring",
+                2.0
+            ],
+            [
+                "bronze rotor",
+                1.0
+            ],
+            [
+                "bronze screw",
+                1.0
+            ],
+            [
+                "1x copper cable",
+                1.0
+            ],
+            [
+                "steel fluid pipe",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "electric pump (MV)",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "aluminum plate",
+                3.0
+            ],
+            [
+                "aluminum rod",
+                2.0
+            ],
+            [
+                "small aluminum gear",
+                1.0
+            ],
+            [
+                "1x copper cable",
+                2.0
+            ],
+            [
+                "electric motor (MV)",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "electric piston (MV)",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "fluid extractor",
+        "ma": "MV",
+        "dur": 1.2,
+        "eut": 43.0,
+        "I": [
+            [
+                "aluminum ingot",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - molten aluminum",
+                144.0
+            ]
+        ]
+    },
+    {
+        "m": "fluid solidifier",
+        "ma": "LV",
+        "dur": 0.4,
+        "eut": 28.0,
+        "I": [
+            [
+                "fluid - molten aluminum",
+                144.0
+            ]
+        ],
+        "O": [
+            [
+                "small aluminum gear",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "LV gas turbine",
+                1.0
+            ],
+            [
+                "1x tin cable",
+                3.0
+            ],
+            [
+                "hopper",
+                1.0
+            ],
+            [
+                "electric pump (LV)",
+                2.0
+            ],
+            [
+                "LV centrifuge",
+                1.0
+            ],
+            [
+                "LV item filter",
+                2.0
+            ],
+            [
+                "LV compressor",
+                1.0
+            ],
+            [
+                "LV fluid canner",
+                1.0
+            ],
+            [
+                "small tin item pipe",
+                1.0
+            ],
+            [
+                "conveyor module (LV)",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "user - nitrox source",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "LV combustion generator",
+                7.0
+            ],
+            [
+                "LV battery buffer (4 slot)",
+                3.0
+            ],
+            [
+                "small sodium battery",
+                7.0
+            ],
+            [
+                "2x tin cable",
+                3.0
+            ],
+            [
+                "1x tin cable",
+                2.0
+            ],
+            [
+                "LV arc furnace",
+                1.0
+            ],
+            [
+                "LV pulverizer",
+                1.0
+            ],
+            [
+                "small bronze fluid pipe",
+                11.0
+            ],
+            [
+                "small bronze fluid pipe",
+                11.0
+            ],
+            [
+                "user - nitrox source",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "user - ebf peripherals",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "bronze plate",
+                6.0
+            ]
+        ],
+        "O": [
+            [
+                "small bronze fluid pipe",
+                6.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "electric piston (LV)",
+                1.0
+            ],
+            [
+                "electric motor (LV)",
+                1.0
+            ],
+            [
+                "1x tin cable",
+                3.0
+            ],
+            [
+                "electronic circuit",
+                2.0
+            ],
+            [
+                "diamond",
+                1.0
+            ],
+            [
+                "LV machine hull",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "LV pulverizer",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "steel plate",
+                3.0
+            ],
+            [
+                "LV machine hull",
+                1.0
+            ],
+            [
+                "electronic circuit",
+                2.0
+            ],
+            [
+                "4x tin cable",
+                2.0
+            ],
+            [
+                "graphite cell",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "LV arc furnace",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "1x tin wire",
+                2.0
+            ]
+        ],
+        "O": [
+            [
+                "2x tin wire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "1x tin wire",
+                4.0
+            ]
+        ],
+        "O": [
+            [
+                "4x tin wire",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "LV machine hull",
+                1.0
+            ],
+            [
+                "chest",
+                1.0
+            ],
+            [
+                "4x tin wire",
+                4.0
+            ]
+        ],
+        "O": [
+            [
+                "LV battery buffer (4 slot)",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "4x tin wire",
+                1.0
+            ],
+            [
+                "rubber sheet",
+                2.0
+            ]
+        ],
+        "O": [
+            [
+                "4x tin cable",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "2x tin wire",
+                1.0
+            ],
+            [
+                "rubber sheet",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "2x tin cable",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "canning machine",
+        "ma": "LV",
+        "dur": 2.5,
+        "eut": 8.0,
+        "I": [
+            [
+                "sodium dust",
+                2.0
+            ],
+            [
+                "small battery hull",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "small sodium battery",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "1x tin cable",
+                1.0
+            ],
+            [
+                "battery alloy plate",
+                2.0
+            ]
+        ],
+        "O": [
+            [
+                "small battery hull",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "bending machine",
+        "ma": "LV",
+        "dur": 9.45,
+        "eut": 24.0,
+        "I": [
+            [
+                "battery alloy ingot",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "battery alloy plate",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "alloy smelter",
+        "ma": "LV",
+        "dur": 12.5,
+        "eut": 16.0,
+        "I": [
+            [
+                "lead ingot",
+                4.0
+            ],
+            [
+                "antimony ingot",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "battery alloy ingot",
+                5.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "tin plate",
+                6.0
+            ]
+        ],
+        "O": [
+            [
+                "small tin item pipe",
+                6.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "glass",
+                4.0
+            ],
+            [
+                "electronic circuit",
+                1.0
+            ],
+            [
+                "LV machine hull",
+                1.0
+            ],
+            [
+                "1x tin cable",
+                2.0
+            ],
+            [
+                "electric pump (LV)",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "LV fluid canner",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "1x tin cable",
+                4.0
+            ],
+            [
+                "electronic circuit",
+                2.0
+            ],
+            [
+                "electric piston (LV)",
+                2.0
+            ],
+            [
+                "LV machine hull",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "LV compressor",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "LV machine hull",
+                1.0
+            ],
+            [
+                "chest",
+                1.0
+            ],
+            [
+                "conveyor module (LV)",
+                1.0
+            ],
+            [
+                "electronic circuit",
+                1.0
+            ],
+            [
+                "item filter",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "LV item filter",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "assembler",
+        "ma": "LV",
+        "dur": 80.0,
+        "eut": 16.0,
+        "I": [
+            [
+                "fine steel wire",
+                64.0
+            ],
+            [
+                "zinc foil",
+                16.0
+            ]
+        ],
+        "O": [
+            [
+                "item filter",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "bending machine",
+        "ma": "LV",
+        "dur": 3.25,
+        "eut": 24.0,
+        "I": [
+            [
+                "zinc plate",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "zinc foil",
+                4.0
+            ]
+        ]
+    },
+    {
+        "m": "bending machine",
+        "ma": "LV",
+        "dur": 3.25,
+        "eut": 24.0,
+        "I": [
+            [
+                "zinc ingot",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "zinc plate",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "electronic circuit",
+                1.0
+            ],
+            [
+                "electric piston (LV)",
+                2.0
+            ],
+            [
+                "electric motor (LV)",
+                2.0
+            ],
+            [
+                "LV machine hull",
+                1.0
+            ],
+            [
+                "1x tin cable",
+                1.0
+            ],
+            [
+                "steel gear",
+                2.0
+            ]
+        ],
+        "O": [
+            [
+                "LV combustion generator",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "alloy smelter",
+        "ma": "LV",
+        "dur": 28.0,
+        "eut": 30.0,
+        "I": [
+            [
+                "steel ingot",
+                8.0
+            ]
+        ],
+        "O": [
+            [
+                "steel gear",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "steel plate",
+                6.0
+            ]
+        ],
+        "O": [
+            [
+                "small steel fluid pipe",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "wiremill",
+        "ma": "LV",
+        "dur": 3.75,
+        "eut": 28.0,
+        "I": [
+            [
+                "small steel fluid pipe",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "mining pipe",
+                2.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "LV pump",
+                1.0
+            ],
+            [
+                "LV battery buffer (4 slot)",
+                1.0
+            ],
+            [
+                "LV fluid tank",
+                4.0
+            ],
+            [
+                "small bronze fluid pipe",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "user - LV oil pump",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "steel plate",
+                3.0
+            ],
+            [
+                "bronze plate",
+                4.0
+            ],
+            [
+                "electric pump (LV)",
+                1.0
+            ],
+            [
+                "huge clay fluid pipe",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "LV fluid tank",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "double clay plate",
+                6.0
+            ]
+        ],
+        "O": [
+            [
+                "huge clay fluid pipe",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "clay plate",
+                2.0
+            ]
+        ],
+        "O": [
+            [
+                "double clay plate",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "cutting machine",
+        "ma": "LV",
+        "dur": 7.5,
+        "eut": 30.0,
+        "I": [
+            [
+                "clay block",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "clay plate",
+                9.0
+            ]
+        ]
+    },
+    {
+        "m": "distillation tower",
+        "ma": "HV",
+        "dur": 12.5,
+        "eut": 480.0,
+        "I": [
+            [
+                "fluid - biomass",
+                3000.0
+            ]
+        ],
+        "O": [
+            [
+                "fertilizer",
+                1.0
+            ],
+            [
+                "fluid - biogas",
+                8000.0
+            ],
+            [
+                "fluid - water",
+                125.0
+            ]
+        ]
+    },
+    {
+        "m": "centrifuge",
+        "ma": "LV",
+        "dur": 9.6,
+        "eut": 20.0,
+        "I": [
+            [
+                "fish",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - methane gas",
+                48.0
+            ]
+        ]
+    },
+    {
+        "m": "fluid extractor",
+        "ma": "LV",
+        "dur": 0.4,
+        "eut": 16.0,
+        "I": [
+            [
+                "fish",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - fish oil",
+                40.0
+            ]
+        ]
+    },
+    {
+        "m": "burn time conversion",
+        "ma": "S",
+        "dur": 0.0,
+        "eut": 0.0,
+        "I": [
+            [
+                "charcoal",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "burn time",
+                1600.0
+            ]
+        ]
+    },
+    {
+        "m": "electrolyzer",
+        "ma": "MV",
+        "dur": 2.4,
+        "eut": 60.0,
+        "I": [
+            [
+                "fluid - benzene",
+                2000.0
+            ]
+        ],
+        "O": [
+            [
+                "carbon dust",
+                1.0
+            ],
+            [
+                "fluid - hydrogen gas",
+                1000.0
+            ]
+        ]
+    },
+    {
+        "m": "electrolyzer",
+        "ma": "MV",
+        "dur": 4.0,
+        "eut": 60.0,
+        "I": [
+            [
+                "fluid - methane gas",
+                5000.0
+            ]
+        ],
+        "O": [
+            [
+                "carbon dust",
+                1.0
+            ],
+            [
+                "fluid - hydrogen gas",
+                4000.0
+            ]
+        ]
+    },
+    {
+        "m": "large chemical reactor",
+        "ma": "HV",
+        "dur": 8.75,
+        "eut": 480.0,
+        "I": [
+            [
+                "fluid - water",
+                15000.0
+            ],
+            [
+                "fluid - methane gas",
+                5000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - co2 gas",
+                5000.0
+            ],
+            [
+                "fluid - hydrogen gas",
+                15000.0
+            ]
+        ]
+    },
+    {
+        "m": "electrolyzer",
+        "ma": "MV",
+        "dur": 15.0,
+        "eut": 120.0,
+        "I": [
+            [
+                "fluid - co2 gas",
+                1000.0
+            ]
+        ],
+        "O": [
+            [
+                "carbon dust",
+                1.0
+            ],
+            [
+                "fluid - oxygen gas",
+                2000.0
+            ]
+        ]
+    },
+    {
+        "m": "electrolyzer",
+        "ma": "MV",
+        "dur": 7.2,
+        "eut": 90.0,
+        "I": [
+            [
+                "fluid - methanol",
+                6000.0
+            ]
+        ],
+        "O": [
+            [
+                "carbon dust",
+                1.0
+            ],
+            [
+                "fluid - hydrogen gas",
+                4000.0
+            ],
+            [
+                "fluid - oxygen gas",
+                1000.0
+            ]
+        ]
+    },
+    {
+        "m": "distillery",
+        "ma": "MV",
+        "dur": 0.8,
+        "eut": 64.0,
+        "I": [
+            [
+                "fluid - wood gas",
+                200.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - co2 gas",
+                98.0
+            ]
+        ]
+    },
+    {
+        "m": "brewing machine",
+        "ma": "LV",
+        "dur": 3.2,
+        "eut": 16.0,
+        "I": [
+            [
+                "compost",
+                4.0
+            ],
+            [
+                "fluid - water",
+                750.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - biomass",
+                750.0
+            ]
+        ]
+    },
+    {
+        "m": "pyrolyse oven",
+        "ma": "MV",
+        "dur": 22.5,
+        "eut": 40.0,
+        "I": [
+            [
+                "compost",
+                4.0
+            ],
+            [
+                "fluid - water",
+                4000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - biomass",
+                5000.0
+            ]
+        ]
+    },
+    {
+        "m": "electrolyzer",
+        "ma": "MV",
+        "dur": 12.0,
+        "eut": 90.0,
+        "I": [
+            [
+                "obsidian dust",
+                12.0
+            ]
+        ],
+        "O": [
+            [
+                "magnesium dust",
+                1.0
+            ],
+            [
+                "iron dust",
+                1.0
+            ],
+            [
+                "silicon dust",
+                2.0
+            ],
+            [
+                "fluid - oxygen",
+                8000.0
+            ]
+        ]
+    },
+    {
+        "m": "rock breaker",
+        "ma": "LV",
+        "dur": 6.4,
+        "eut": 30.0,
+        "I": [
+            [
+                "redstone",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "obsidian",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "pulverizer",
+        "ma": "LV",
+        "dur": 7.5,
+        "eut": 8.0,
+        "I": [
+            [
+                "obsidian",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "obsidian dust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "electrolyzer",
+        "ma": "MV",
+        "dur": 22.4,
+        "eut": 60.0,
+        "I": [
+            [
+                "sugar",
+                32.0
+            ]
+        ],
+        "O": [
+            [
+                "carbon dust",
+                2.0
+            ],
+            [
+                "fluid - oxygen gas",
+                25000.0
+            ],
+            [
+                "fluid - water",
+                5000.0
+            ]
+        ]
+    },
+    {
+        "m": "alloy smelter",
+        "ma": "LV",
+        "dur": 5.0,
+        "eut": 8.0,
+        "I": [
+            [
+                "clay",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "brick",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "forge hammer",
+        "ma": "LV",
+        "dur": 0.5,
+        "eut": 16.0,
+        "I": [
+            [
+                "brick",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "small pile of brick dust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "small pile of brick dust",
+                4.0
+            ]
+        ],
+        "O": [
+            [
+                "brick dust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "centrifuge",
+        "ma": "MV",
+        "dur": 20.0,
+        "eut": 120.0,
+        "I": [
+            [
+                "brick dust",
+                19.0
+            ]
+        ],
+        "O": [
+            [
+                "aluminum dust",
+                4.0
+            ],
+            [
+                "silicon dust",
+                3.0
+            ],
+            [
+                "fluid - oxygen gas",
+                12000.0
+            ]
+        ]
+    },
+    {
+        "m": "pulverizer",
+        "ma": "LV",
+        "dur": 0.4,
+        "eut": 16.0,
+        "I": [
+            [
+                "hardened clay",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "clay dust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "compressor",
+        "ma": "LV",
+        "dur": 7.5,
+        "eut": 8.0,
+        "I": [
+            [
+                "clay dust",
+                9.0
+            ]
+        ],
+        "O": [
+            [
+                "clay block",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "centrifuge",
+        "ma": "MV",
+        "dur": 10.0,
+        "eut": 120.0,
+        "I": [
+            [
+                "fireclay dust",
+                19.0
+            ]
+        ],
+        "O": [
+            [
+                "aluminum dust",
+                4.0
+            ],
+            [
+                "silicon dust",
+                3.0
+            ],
+            [
+                "fluid - oxygen gas",
+                12000.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "iron rod",
+                3.0
+            ],
+            [
+                "rubber round",
+                2.0
+            ],
+            [
+                "iron minecart wheels",
+                2.0
+            ],
+            [
+                "steel plate",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "dolly",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "assembler",
+        "ma": "LV",
+        "dur": 12.5,
+        "eut": 8.0,
+        "I": [
+            [
+                "iron rod",
+                1.0
+            ],
+            [
+                "iron ring",
+                2.0
+            ]
+        ],
+        "O": [
+            [
+                "iron minecart wheels",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "pulverizer",
+        "ma": "LV",
+        "dur": 20.0,
+        "eut": 8.0,
+        "I": [
+            [
+                "flint",
+                2.0
+            ]
+        ],
+        "O": [
+            [
+                "flint dust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "forge hammer",
+        "ma": "LV",
+        "dur": 0.5,
+        "eut": 16.0,
+        "I": [
+            [
+                "cobblestone",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "gravel",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "forge hammer",
+        "ma": "LV",
+        "dur": 0.5,
+        "eut": 16.0,
+        "I": [
+            [
+                "gravel",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "sand",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "arc furnace",
+        "ma": "MV",
+        "dur": 1.0,
+        "eut": 85.0,
+        "I": [
+            [
+                "sand",
+                1.0
+            ],
+            [
+                "fluid - oxygen gas",
+                2.0
+            ]
+        ],
+        "O": [
+            [
+                "glass",
+                2.0
+            ]
+        ]
+    },
+    {
+        "m": "forge hammer",
+        "ma": "LV",
+        "dur": 0.5,
+        "eut": 10.0,
+        "I": [
+            [
+                "glass",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "glass dust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "centrifuge",
+        "ma": "LV",
+        "dur": 2.0,
+        "eut": 20.0,
+        "I": [
+            [
+                "glass dust",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "silicon dioxide dust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "electrolyzer",
+        "ma": "LV",
+        "dur": 3.0,
+        "eut": 30.0,
+        "I": [
+            [
+                "silicon dioxide dust",
+                3.0
+            ]
+        ],
+        "O": [
+            [
+                "silicon dust",
+                1.0
+            ],
+            [
+                "fluid - oxygen gas",
+                2000.0
+            ]
+        ]
+    },
+    {
+        "m": "centrifuge",
+        "ma": "LV",
+        "dur": 2.0,
+        "eut": 20.0,
+        "I": [
+            [
+                "flint dust",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "silicon dioxide dust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "sifter",
+        "ma": "LV",
+        "dur": 30.0,
+        "eut": 16.0,
+        "I": [
+            [
+                "gravel",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "flint",
+                3.88
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "flint dust",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "tiny pile of flint dust",
+                9.0
+            ]
+        ]
+    },
+    {
+        "m": "pulverizer",
+        "ma": "LV",
+        "dur": 5.0,
+        "eut": 28.0,
+        "I": [
+            [
+                "sand",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "quartz dust",
+                1.0
+            ]
+        ]
+    },
+    {
+        "m": "crafting",
+        "dur": 0,
+        "eut": 0,
+        "ma": "S",
+        "I": [
+            [
+                "aluminum plate",
+                3.0
+            ],
+            [
+                "aluminum rod",
+                2.0
+            ],
+            [
+                "small aluminum gear",
+                1.0
+            ],
+            [
+                "electric motor (MV)",
+                1.0
+            ],
+            [
+                "1x copper cable",
+                2.0
+            ]
+        ],
+        "O": [
+            [
+                "electric piston (MV)",
+                1.0
+            ]
+        ]
+    }
+]

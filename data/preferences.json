@@ -1,0 +1,121 @@
+{
+    "fluid - methanol": {
+        "m": "distillery",
+        "ma": "MV",
+        "dur": 0.8,
+        "eut": 64,
+        "I": [
+            [
+                "fluid - wood vinegar",
+                200.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - methanol",
+                60.0
+            ]
+        ]
+    },
+    "fluid - wood vinegar": {
+        "m": "pyrolyse oven",
+        "dur": 32.0,
+        "eut": 64,
+        "I": [
+            [
+                "wood",
+                16
+            ]
+        ],
+        "O": [
+            [
+                "charcoal",
+                20
+            ],
+            [
+                "fluid - wood vinegar",
+                3000
+            ]
+        ],
+        "ma": "MV"
+    },
+    "fluid - biomass": {
+        "m": "brewing machine",
+        "ma": "LV",
+        "dur": 20.0,
+        "eut": 12,
+        "I": [
+            [
+                "sapling",
+                1.0
+            ],
+            [
+                "fluid - water",
+                100.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - biomass",
+                100.0
+            ]
+        ]
+    },
+    "fluid - hydrogen gas": {
+        "m": "fluid canning machine",
+        "ma": "LV",
+        "dur": 0.4,
+        "eut": 4.0,
+        "I": [
+            [
+                "hydrogen cell",
+                1.0
+            ]
+        ],
+        "O": [
+            [
+                "empty cell",
+                1.0
+            ],
+            [
+                "fluid - hydrogen gas",
+                1000.0
+            ]
+        ]
+    },
+    "fluid - 2-ethylanthraquinone": {
+        "m": "chem plant",
+        "ma": "MV",
+        "dur": 15.0,
+        "eut": 120,
+        "I": [
+            [
+                "fluid - ethylbenzene",
+                2000.0
+            ]
+        ],
+        "O": [
+            [
+                "fluid - 2-ethylanthraquinone",
+                2576.0
+            ]
+        ]
+    },
+    "fluid - nitrogen gas": {
+        "m": "nitrogen + oxygen source (compressor -> centrifuge)",
+        "ma": "LV",
+        "dur": 40.0,
+        "eut": 35.5,
+        "I": [],
+        "O": [
+            [
+                "fluid - oxygen gas",
+                1000.0
+            ],
+            [
+                "fluid - nitrogen gas",
+                3900.0
+            ]
+        ]
+    }
+}
